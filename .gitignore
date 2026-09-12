@@ -1,0 +1,24 @@
+# STM32CubeIDE build output
+Debug/
+Release/
+
+# Eclipse / STM32CubeIDE local settings
+.settings/
+
+# Launch configurations
+*.launch
+
+# Compiled files
+*.o
+*.d
+*.su
+*.cyclo
+*.elf
+*.bin
+*.hex
+*.map
+*.list
+
+# OS files
+.DS_Store
+Thumbs.db
